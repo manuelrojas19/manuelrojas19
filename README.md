@@ -16,4 +16,6 @@ This is a collection of my personal projects and self-learning endeavors. Here's
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manuel-rojas-ramos)!
 
+🏳️‍🌈 Proud supporter of diversity and inclusion 🏳️‍🌈
+
 Thanks for stopping by! 😊
