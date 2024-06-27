@@ -14,6 +14,6 @@ This is a collection of my personal projects and self-learning endeavors. Here's
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manuel-rojas-ramos) for more!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manuel-rojas-ramos)!
 
 Thanks for stopping by! 😊
