@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Software Developer at Capital One, specializing in backend development with Java. I'm passionate about cloud computing and love exploring new technologies and programming languages.
+I'm a Software Developer, specializing in backend development with Java. I'm passionate about cloud computing and love exploring new technologies and programming languages.
 
 ## What You'll Find Here
 
