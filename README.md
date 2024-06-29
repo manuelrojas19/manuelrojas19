@@ -12,6 +12,12 @@ This is a collection of my personal projects and self-learning endeavors. Here's
 - **Infrastructure 🛠️:** Projects related to infrastructure setup and management, including tools like Docker, Kubernetes, and Terraform.
 - **Cloud Computing ☁️:** Developments and experiments on cloud platforms like AWS, Azure, and Google Cloud Platform.
 
+## Some of my badges
+
+<div>
+    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_512x512.png" alt="AWS Certification Badge" width="200" height="200">
+</div>
+
 ## Connect with Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manuel-rojas-ramos)!
