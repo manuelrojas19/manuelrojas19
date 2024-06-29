@@ -15,7 +15,7 @@ This is a collection of my personal projects and self-learning endeavors. Here's
 ## Some of my badges
 
 <div>
-    <img src="[https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_512x512.png](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png)" alt="AWS Certification Badge" width="200" height="200">
+    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certification Badge" width="200" height="200">
 </div>
 
 ## Connect with Me
