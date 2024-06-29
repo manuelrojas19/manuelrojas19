@@ -8,7 +8,7 @@ This is a collection of my personal projects and self-learning endeavors. Here's
 - **Infrastructure 🛠️:** Projects related to infrastructure setup and management, including tools like Docker, Kubernetes, and Terraform.
 - **Cloud Computing ☁️:** Developments and experiments on cloud platforms like AWS, Azure, and Google Cloud Platform.
 
-- ## About Me
+## About Me
 
 I'm Manuel Rojas and I'm a Software Developer, specializing in backend development with Java. I'm passionate about cloud computing and love exploring new technologies and programming languages.
 
