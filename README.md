@@ -15,8 +15,8 @@ I'm Manuel Rojas and I'm a Software Developer, specializing in backend developme
 ## Some of my badges
 
 <div>
-    <img src="[https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmRv55UMLge61IpP8wFv1onjUHAKq1PkoWQ&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXmRv55UMLge61IpP8wFv1onjUHAKq1PkoWQ&s)" alt="AWS Certification Badge" width="175" height="175">
-    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certification Badge" width="175" height="175">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/twitter_thumb_201604_image.png" alt="AWS Certification Badge" width="170" height="170">
+    <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" alt="AWS Certification Badge" width="170" height="175">
 </div>
 
 ## Connect with Me
