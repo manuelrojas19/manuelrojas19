@@ -25,6 +25,4 @@ Almost six months of study for each one - I have to put them somewhere other tha
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manuel-rojas-ramos)!
 
-🏳️‍🌈 Proud supporter of diversity and inclusion 🏳️‍🌈
-
 Thanks for stopping by! 😊
